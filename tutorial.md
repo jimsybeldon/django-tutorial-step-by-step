@@ -10,3 +10,6 @@ python -m venv .venv
 python -m pip install django~=4.0.0
 
 python manage.py runserver
+
+about vscode-
+https://code.visualstudio.com/docs/python/tutorial-django
